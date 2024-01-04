@@ -1,6 +1,7 @@
-# jekyll-related-posts
-A layout and includes for better related posts on a Jekyll static site.
-
+---
+layout: page
+title: About
+---
 Include a configurable set of related posts on a page. `jekyll-related-posts' does not rely on custom plugins so works with GitHub Pages.
 
 * Choose random pages from posts and collections.
@@ -12,10 +13,11 @@ The core of `jekyll-related-posts` is an `_includes` file called `related.html`.
 
 ## Installation
 
+1. Head over to [jekyll-related-posts](https://github.com/jsware/jekyll-related-posts) and download the [`related.html`](https://github.com/jsware/jekyll-related-posts/blob/main/_includes/related.html) file.
 1. Copy the `related.html` file into your site `_includes` directory.
-2. Modify your `_config.yml` file to include `related_by`, `related_categories` and/or `related_tags` values. See below for available settings.
-3. Update the `_layout` used to include related posts to {% raw %}`{% include related.html %}`{% endraw %} where related posts should appear.
-4. Copy the `related-post.html` file into your _includes directory - modifying it to output a link for each related document. Alternatively set the `related_template` setting in `_config.yml` with an alternative include file - for example `archive-single.html` if you use the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.
+1. Modify your `_config.yml` file to include `related_by`, `related_categories` and/or `related_tags` values. See below for available settings.
+1. Update the `_layout` used to include related posts to {% raw %}`{% include related.html %}`{% endraw %} where related posts should appear.
+1. Copy the `related-post.html` file into your _includes directory - modifying it to output a link for each related document. Alternatively set the `related_template` setting in `_config.yml` with an alternative include file - for example `archive-single.html` if you use the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme.
 
 ## Settings
 
@@ -84,6 +86,7 @@ related_tags: 2       # Match with at least 2 tags.
 
 Integrating `related.html` into the `default` layout can be as simple as:
 
+{% raw %}
 ```html
 {% comment %}
   <!-- Only show related pages on a page when `related: true` -->
@@ -95,6 +98,7 @@ Integrating `related.html` into the `default` layout can be as simple as:
   </div>
 {% endif %}
 ```
+{% endraw %}
 
 ### Random Related Pages
 The example front matter below will choose 10 random pages across posts and other collections. For example, on a recipe site, you could have a page that just shows random recipies from across your collections and posts.
