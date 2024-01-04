@@ -1,8 +1,11 @@
-title: newsviral
+title: News Viral
 author:
   name: newsviral
   email: your-email@domain.com
 
+include: ["_pages"]
+#permalink: /:title/
+permalink: /:name/
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
@@ -22,7 +25,11 @@ theme: minima
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-gensocial
 
 # Theme-specific settings
 
@@ -71,3 +78,23 @@ minima:
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
 
+#gensocial config
+jekyll-gensocial:     # These are the default settings
+  enabled: true       # Disables the output
+  size:               # The size of the overall canvas
+    width: 1920
+    height: 1080
+  background:         # The background image
+    path: nil
+  text:
+    string: nil       # Overrides the post/page title
+    font_path: nil    # Path to your custom font
+    pointsize: 100    # Font size
+    fill: "#000000"   # Font color
+    rect:             # Text will appear inside this frame
+      size:
+        width: 1600
+        height: 500
+      origin:
+        x: 150
+        y: 100
