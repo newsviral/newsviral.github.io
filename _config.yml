@@ -3,7 +3,6 @@ author:
   name: newsviral
   email: your-email@domain.com
 
-paginate: 5
 include: ["_pages"]
 #permalink: /:title/
 permalink: /:name/
