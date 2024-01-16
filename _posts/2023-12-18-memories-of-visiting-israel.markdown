@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Memories of Visiting Israel"
+date: 2023-12-18 05:41:47 +0000
+categories: "News"
+excerpt_image: https://www.fodors.com/wp-content/uploads/2020/07/07_IsraelHistoricSights__DomeofTheRock_5.-shutterstock_1506026051-1600x1067.jpg
+image: https://www.fodors.com/wp-content/uploads/2020/07/07_IsraelHistoricSights__DomeofTheRock_5.-shutterstock_1506026051-1600x1067.jpg
+---
+
+### Childhood Memories
+I was very young when I went to Israel with my family, perhaps age 7 or so. I vaguely remember [floating in the saline Dead Sea](https://thetopnews.github.io/understanding-the-importance-of-ssd-heatsinks-for-the-playstation-5/), feeling like I was weightless in the water. Another recollection is of visiting the **Western Wall** in Jerusalem, seeing people praying and leaving notes in the cracks of the ancient stone. I have a fuzzy memory of **planting a tree** somewhere, though I cannot recall the exact location. Unfortunately, those are about the only recollections I have from that early trip over 45 years ago. As a child, the visit did not make much of a lasting impression on me.
+
+![](https://i2.wp.com/travelfelicity.com/wp-content/uploads/2017/12/Jerusalem-7-of-9.jpg?fit=1200%2C800&amp;ssl=1)
+### Return Trips in the 1970s   
+I went back to Israel twice in the late 1970s, in 1978 and 1979. The 1978 trip sticks out more clearly in my mind. One distinct memory is **passing the Good Samaritan's Guesthouse** as we traveled between sites. I remember our guide pointing it out, though at the time I did not fully grasp its significance. Another vivid recollection is taking an **old-fashioned bus** from Jerusalem down the steep incline to Jericho. You could really feel the change in elevation as the road wound its way downward. Those return trips during my adolescence allowed me to better apprehend and appreciate the history and landscapes of the Holy Land.
+### A Return Trip as an Adult in 2012
+After over 30 years, I returned to Israel again in 2012. However, this most recent visit was rather lackluster compared to my prior experiences. When arriving by charter bus into Jerusalem from Eilat, I was disappointed by how much the city outskirts had been **spoiled by extensive express highways** and the significant traffic issues they brought. When our guide pointed out the Good Samaritan's Guesthouse as we passed, I did not recognize the structure at all. Moreover, the bus ride from Jerusalem down to Jericho along an impersonal motorway felt bland and devoid of character. It seemed the area had lost much of its unique historical charm.
+### Exploring Biblical Sites  
+We visited several important biblical sites during our travels. At **Bethlehem**, we saw the Church of the Nativity, built over the traditional location of Jesus' birthplace. In **Nazareth**, we walked through the Basilica of the Annunciation, marking where the angel Gabriel revealed to Mary that she would give birth to the messiah. One highlight was spending time at the excavated ruins of **Capernaum** along the Sea of Galilee, where Jesus lived and performed many miracles. Wandering through the beautifully preserved **columns and arches** gave a real sense of what daily life might have been like in a 1st century Galilean village.
+### Floating in the Saline Dead Sea
+A memorable part of each trip was floating in the **salty waters of the Dead Sea**. Its high saline content causes unusual buoyancy, allowing effortless relaxation. On my first visits, I tried floating with an **orange on my stomach**, amused that the fruit remained atop the surface while I reclined comfortably below. The Dead Sea's unique composition **imbued my skin with moisture**, leaving it soft for days after. More recently, concerns over dropping water levels and pollution have lessened the experience's appeal. But those initial floats decades ago remain vivid in my mind's eye.
+### Contrasting Impressions Over Time
+Retracing my steps through Israel after so many years afforded interesting perspectives. Revisiting sites dredged up old memories while revealing how places had evolved. My childhood recollections were sparse, the 1970s trips stimulated deeper understanding, but the 2012 visit felt impersonal. The contrasts highlight how impressions of lifelong experiences **change across generations**. They also underscore the value of experiential learning on formative trips, before modern development alters historical authenticity. Returning as an adult cultivated fresh appreciation alongside nostalgia for an Israel of decades past.
+![Memories of Visiting Israel](https://www.fodors.com/wp-content/uploads/2020/07/07_IsraelHistoricSights__DomeofTheRock_5.-shutterstock_1506026051-1600x1067.jpg)
