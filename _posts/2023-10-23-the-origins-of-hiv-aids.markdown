@@ -1,0 +1,33 @@
+---
+layout: post
+title: "The Origins of HIV/AIDS"
+date: 2023-10-23 15:00:25 +0000
+categories: "True crime"
+excerpt_image: https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2012/07/13/Web-Resampled/2012-07-13/2001-D~2--296x195.JPG?t=20170517
+image: https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2012/07/13/Web-Resampled/2012-07-13/2001-D~2--296x195.JPG?t=20170517
+---
+
+### Early Days in Africa
+It was around 1920 in rural Africa that one of the earliest known cross-species transmission events of HIV is believed to have occurred. A hunter killed and butchered a chimpanzee that was infected with SIV (Simian Immunodeficiency Virus), the precursor to HIV. In the process, the hunter is thought to have cut himself and became infected with the simian virus. **human-to-human transmission of retroviruses**. 
+While such transmissions between non-human primates and humans had likely happened before, the social changes taking place in early 20th century Africa allowed this particular crossover event to have more extensive consequences. With the construction of railroads connecting more remote areas, the infected individual or others he may have infected were then able to travel to larger cities and more densely populated areas. This helped the novel virus spread beyond isolated rural settlements for the first time.
+
+![](https://www.science.org/cms/10.1126/science.1123016/asset/cc3d728c-8d54-48cd-ad8e-ed565ca59a18/assets/graphic/313_462_f1.jpeg)
+### Evolution of HIV and the Global Pandemic
+Once established in human populations, the virus began adapting to its new host. Over decades it evolved into new strains better able to infect humans, such as **HIV-1 group M**, the cause of the global HIV/AIDS pandemic today. As populations became more mobile in Africa and beyond, the virus spread efficiently through sexual networks and infected communities worldwide. 
+By the late 1970s and early 80s, HIV had reached epidemic proportions in parts of sub-Saharan Africa. Around this same time, cases began emerging among men who have sex with men in major US cities. The acquired immunodeficiency it caused was eventually designated AIDS (Acquired Immunodeficiency Syndrome) and declared a global health crisis.
+### Addressing Myths and Misinformation
+Some speculative scenarios regarding the origins of HIV are not supported by scientific evidence. Claims of human-monkey intercourse as the root cause propagate harmful stereotypes without basis. All species of monkeys have physical defenses making any such encounters extremely unlikely. 
+Leading scientists and health authorities like the World Health Organization have investigated this question extensively. Their conclusions point to human consumption of chimpanzee or other wild meat as a far more probable initial event of cross-species viral transmission. Once introduced to humans, the pandemic took shape as the virus naturally spread within and between populations through established routes of human sexual and blood contact.
+### Examining the African Epidemic
+The HIV/AIDS epidemic hit sub-Saharan Africa particularly hard, with large heterosexual populations driving widespread community transmission on the continent. Some researchers proposed theories of distinct initial introductions to explain why certain areas were impacted more severely. However, genetic sequencing shows **HIV-1 group M** arising from a single crossover event later distributed throughout Africa and globally.
+Natural resistance to HIV differs somewhat between ethnic groups due to genetic diversity in the region. Certain long-isolated pygmy populations in central Africa, for example, have inherited traits defending against retroviral infection. This underscores the virus’s African origins and long history of contact between humans and retroviruses in that environment.
+### Drawing Evidence-Based Conclusions
+By critically examining available scientific literature over decades of investigation, public health authorities have formed a consensus regarding the most plausible scenario for how HIV emerged. The weight of genetic, biological and epidemiological research indicates transmission of SIV from non-human primates to rural Africans through butchering/consumption sometime in the early 20th century.
+As the region underwent social changes at that time, the nascent HIV was then able to establish a foothold in human populations. Once introduced, the AIDS pandemic took shape through documented routes of viral spread within and between populaces. Stigmatizing myths intended to assign blame find no basis in reality. Further global collaboration continues striving to understand disease history and safeguard health.
+### Progress Against the Pandemic 
+Though AIDS remains a massive challenge, scientific advances have radically improved prevention and clinical outcomes over the past four decades. After many years of activism, antiretroviral treatment is now broadly accessible across Africa and worldwide. Combination drug therapies can reduce viral loads to non-infectious levels, thereby halting transmission at a community scale.  
+Vaccine research continues yet no fully protective formulation exists. However, additional biomedical interventions show promise, such as pre-exposure prophylaxis (PrEP) and treatment as prevention. Public health strategies focused on testing, linkage to care, condom promotion and empowering at-risk groups are also making deep impact. Continuous research supports developing ever better means of controlling and ultimately ending the pandemic through combination prevention.
+### Looking to the Future 
+With medical science advancing rapidly, experts anticipate new ways to curb HIV in the coming decades. Genomic sequencing of viral samples through time provides insights into how the disease might be contained or curbed on an elimination basis. Continued study of natural resistance in human populations and non-human hosts continues informing research efforts.  
+Going forward, integrating prevention within primary care and focusing initiatives on hotspots and key populations will maximize impact. Social approaches addressing underlying vulnerabilities like gender inequality or lack of education must also be part of comprehensive strategies. Ultimately ending the scourge of AIDS means vigilance, community engagement and not relenting until existing infections are addressed and new ones prevented. The future remains hopeful if all join together in shared commitment and determination and knowledge continues guiding the way.
+![The Origins of HIV/AIDS](https://www.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2012/07/13/Web-Resampled/2012-07-13/2001-D~2--296x195.JPG?t=20170517)
